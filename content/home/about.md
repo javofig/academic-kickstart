@@ -10,31 +10,37 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Psicología Social de la Violencia",
+    "Sociología del Castigo",
+    "Instituciones Totales"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Maestría en Criminología y Política Criminal"
+  institution = "Instituto Nacional de Ciencias Penales"
+  year = ""
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Especialidad en Sistemas Penitenciarios y Reinserción Social"
+  institution = "Instituto Nacional de Ciencias Penales"
+  year = ""
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "Diplomado Teórico-Práctico en Criminalística"
+  institution = "Univesidad Regional del Sureste"
+  year = ""
+
+[[education.courses]]
+  course = "Licenciatura en Psicología"
+  institution = "Universidad Regional del Sureste"
+  year = ""
  
 +++
 
-# Biography
+# Biografía
+Maestro en Criminología y Política Criminal por el Instituto Nacional de Ciencias Penales y Licenciado en Psicología por la Facultad de Psicología de la Universidad Regional del Sureste.
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ha realizado estudios de especialidad en sistemas penitenciarios y reinserción social en el Instituto Nacional de Ciencias Penales, así como seminarios y cursos en teoría crítica 17, Instituto de Estudios Crítico
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Se ha desempeñado como: asistente de investigación del Instituto Nacional de Ciencias Penales, coordinador de proyectos de prevención del Subsidio para la Seguridad en los Municipios (SUBSEMUN) y del Programa Nacional de Prevención del Delito (PRONAPRED) en diferentes delegaciones y municipios

@@ -4,7 +4,7 @@ widget = "talks"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Recent & Upcoming Talks"
+title = "Ponencias"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -21,4 +21,3 @@ list_format = 0
 # Exclude talks that are shown in the Selected Talks widget?
 exclude_selected = false
 +++
-
