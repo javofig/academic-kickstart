@@ -64,11 +64,11 @@ enableGitInfo = false
 
   # Your details.
   name = "Javier Figueroa"
-  role = "Maestro en Criminología y Política Criminal"
+  role = "Director de Investigación | Psicólogo y criminólogo"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Instituto Nacional de Ciencias Políticas", url = "http://www.inacipe.gob.mx/" }, { name = "Instituto de Estudios Criminológicos Transdisciplinarios", url = "http://www.iecrimt.org.mx/blog/" } ]
+  organizations = [ { name = "Instituto de Estudios Criminológicos Transdisciplinarios", url = "http://www.iecrimt.org.mx/blog/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "javier.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
